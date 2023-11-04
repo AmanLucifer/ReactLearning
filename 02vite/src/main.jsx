@@ -5,6 +5,7 @@ import App from './App.jsx'
 function Custom() {
   return (
     <h1>Custom || react</h1>
+    //react learning with, Custom React
 
   )
 }
