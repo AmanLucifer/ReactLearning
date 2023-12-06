@@ -15,15 +15,15 @@ function App() {
           setCounter(counter + 1)
         }
       }}>Add Value</button>
-
+      
       <br /><br />
-
+      
       {/* decrease Value */}
       <button onClick={() => {
         if (counter > 0) {
           setCounter(counter - 1)
         }
-      }}>Remove Value</button>
+      }}>Remove Value</button>  
 
       {/* footer */}
       <h3>Footer: {counter}</h3>
